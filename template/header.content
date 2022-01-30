@@ -1,3 +1,0 @@
-<p>
-	<center><header><img id="logo" src="@pathtofile($[output-dir]/files/nifty-site-manager.png)" width="300px" style="max-width:90%"></header></center>
-</p>
