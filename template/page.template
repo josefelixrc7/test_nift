@@ -1,0 +1,18 @@
+<html>
+    <head>
+        @input(template/head.content)
+    </head>
+
+    <body>
+		<div class="content">
+			@input(template/header.content)
+
+		    @input(template/menu.content)
+
+		    @content()
+
+		    @input(template/footer.content)
+		</div>
+    </body>
+</html>
+
